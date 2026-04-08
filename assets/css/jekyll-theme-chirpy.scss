@@ -7,3 +7,16 @@ body, p, li, td {
   font-family: 'Courier New', monospace !important;
   font-size: 0.9rem !important;
 }
+
+#main-wrapper {
+  overflow-x: hidden !important;
+}
+
+.sidebar {
+  overflow-x: hidden !important;
+}
+
+html, body {
+  overflow-x: hidden !important;
+  max-width: 100% !important;
+}
