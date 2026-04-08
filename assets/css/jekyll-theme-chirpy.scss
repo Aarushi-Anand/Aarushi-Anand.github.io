@@ -5,19 +5,21 @@
 
 body, p, li, td {
   font-family: 'Courier New', monospace !important;
-  font-size: 0.9rem !important;
-}
-
-#main-wrapper {
-  overflow-x: hidden !important;
-}
-
-.sidebar {
-  overflow-x: hidden !important;
-  width: 280px !important;
+  font-size: 0.85rem !important;
+  word-break: break-word !important;
 }
 
 html, body {
   overflow-x: hidden !important;
-  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.sidebar {
+  overflow: hidden !important;
+  min-width: 0 !important;
+}
+
+#main-wrapper {
+  overflow-x: hidden !important;
+  width: 100% !important;
 }
