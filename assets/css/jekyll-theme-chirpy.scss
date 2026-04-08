@@ -57,6 +57,9 @@ html, body {
   overflow-x: hidden !important;
   width: 100% !important;
 }
-  max-width: 100% !important;
-  overflow-x: hidden !important;
+
+#avatar img {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
 }
