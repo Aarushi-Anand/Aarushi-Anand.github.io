@@ -24,3 +24,19 @@ html, body {
   overflow-x: hidden !important;
   width: 100% !important;
 }
+
+.site-subtitle {
+  word-break: break-word !important;
+  white-space: normal !important;
+  max-width: 100% !important;
+}
+
+#sidebar {
+  overflow-x: hidden !important;
+  max-width: 260px !important;
+}
+
+.profile-wrapper {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}
