@@ -110,7 +110,7 @@ Some are default (like C$, ADMIN$), some are user-created.
 
 So the real takeaway is - if sharing is enabled and not secured, anyone on the network might access it.
 
-## Final thought
+## What did I actually learn?
 
 This box wasn’t about breaking in, it was about noticing the door is already open, and that happens more often than you’d think.
 
