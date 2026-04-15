@@ -113,3 +113,6 @@ So the real takeaway is - if sharing is enabled and not secured, anyone on the n
 ## Final thought
 
 This box wasn’t about breaking in, it was about noticing the door is already open, and that happens more often than you’d think.
+
+
+— Aarushi, somewhere in the void 🖤
